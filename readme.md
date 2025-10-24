@@ -1,5 +1,5 @@
-- Tejas Agrawal
+> Tejas Agrawal
 
-*Numpy*
-*Pandas*
+- Numpy
+- Pandas
   - Project
