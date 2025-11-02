@@ -1,3 +1,6 @@
-- Tejas Agrawal
+> Tejas Agrawal
 
-*Numpy*
+- Numpy
+- Pandas
+  - Project
+- Matplotlib
